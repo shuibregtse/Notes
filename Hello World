@@ -1,4 +1,10 @@
+#ifndef _HELLO_WORLD_
+#define _HELLO_WORLD_
+
 #include <iostream>
+
+using namespace std;
+
 int main() {
-   std::cout << "Hello World!" << std::endl;
+   cout << "Hello World!" << endl;
    }
